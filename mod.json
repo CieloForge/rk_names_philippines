@@ -1,0 +1,8 @@
+{
+    "modId": "rk_names_philippines",
+    "revision": 1,
+    "severityAdd" : "Critical",
+    "severityRemove" : "Critical",
+    "visible" : true,
+    "cosmetic" : false
+}

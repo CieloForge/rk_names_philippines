@@ -1,0 +1,24 @@
+
+{
+    "authors": [
+        {
+            "name": "Rykhath",
+            "role": "CREATOR"
+        }
+    ],
+    "description": "",
+    "localization": {
+        "en": {
+            "description": "This mod simply adds a Philippine based name list for towns, streets and citizens. It's purely cosmetic and doesn't change core gameplay in any way other than being nice. I plan to try and keep it updated and get functional two first names working.",
+            "name": "Philippines Names",
+            "summary": "A simple mod adding Philippine Flavour to the game."
+        }
+    },
+    "name": "Philippines Names",
+    "summary": "Adds Philippine Based Names.",
+    "tags": [
+        "Localization",
+        "Misc"
+    ],
+    "url": ""
+}
