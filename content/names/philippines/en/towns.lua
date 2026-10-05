@@ -224,7 +224,7 @@ return {
 	"Nagtipunan",
 	"Maddela",
 	"Quirino",
-	-- CENTRAL LUZON 
+	-- CENTRAL LUZON
 	"Angeles City",
 	"San Fernando",
 	"Mabalacat",
@@ -455,7 +455,7 @@ return {
 	"Santa Cruz",
 	"Santa Maria",
 	"Siniloan",
-	"Victoria"
+	"Victoria",
 	-- MIMAROPA
 	"Calapan",
 	"Puerto Galera",
