@@ -21,8 +21,7 @@ This mod adds a collection of Philippine-inspired names for towns, streets, and 
 
 ## Requirements
 
-- Transport Fever 3 (version 3.x)
-- Python 3.x (for name script processing)
+- Transport Fever 3
 
 ## Usage
 
