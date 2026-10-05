@@ -1,8 +1,11 @@
-
 {
     "authors": [
         {
             "name": "Rykhath",
+            "role": "CREATOR"
+        },
+        {
+            "name": "CieloForge",
             "role": "CREATOR"
         }
     ],
